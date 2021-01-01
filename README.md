@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I hold a deep-seated interest in Foreign Policy and Geopolitics
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=suvadityamuk&&show_icons=true&&theme=tokyonight />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=suvadityamuk&&show_icons=true&&theme=tokyonight" />
