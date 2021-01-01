@@ -9,8 +9,7 @@
 - 🌱 I’m currently learning Java(for Android), C++(for CP), Python
 <!--- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
--->
+- 💬 Ask me about ... -->
 - 📫 How to reach me: https://www.linkedin.com/in/suvaditya-mukherjee-op/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I hold a deep-seated interest in Foreign Policy and Geopolitics
