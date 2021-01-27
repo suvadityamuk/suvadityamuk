@@ -14,5 +14,4 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=suvadityamuk&&show_icons=true&&theme=chartreuse-dark" />
-[![Top Langs]()](https://github.com/anuraghazra/github-readme-stats)
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suvadityamuk" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suvadityamuk&&show_icons=true&&theme=chartreuse-dark" />
