@@ -14,4 +14,6 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=suvadityamuk&&show_icons=true&&theme=chartreuse-dark" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suvadityamuk&&show_icons=true&&theme=chartreuse-dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suvadityamuk&&show_icons=true&&theme=great-gatsby" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=suvadityamuk&&show_icons=true&&theme=vision-friendly-dark" />
+
