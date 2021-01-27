@@ -13,4 +13,5 @@
 <!--- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=suvadityamuk&&show_icons=true&&theme=tokyonight" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=suvadityamuk&&show_icons=true&&theme=chartreuse-dark/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suvadityamuk)](https://github.com/anuraghazra/github-readme-stats)
