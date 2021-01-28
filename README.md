@@ -5,7 +5,7 @@
 
 <!--Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on clearing my exams with great grades
+- 🔭 I’m currently working on learning new skills related to Python, Java and C++
 - 🌱 I’m currently learning Java(for Android), C++(for CP), Python
 - 📫 How to reach me: https://www.linkedin.com/in/suvaditya-mukherjee/
 - 😄 Pronouns: He/Him
