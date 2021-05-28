@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on clearing my exams with great marks!
 - 🌱 I’m currently learning Java(for Android), C++(for CP), Python
-- 📫 How to reach me: https://www.linkedin.com/in/suvaditya-mukherjee/
+- 📫 How to reach me: https://www.linkedin.com/in/suvadityamukherjee/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I hold a deep-seated interest in Foreign Policy and Geopolitics
 <!--- 👯 I’m looking to collaborate on ...
