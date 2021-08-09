@@ -6,7 +6,7 @@
 
 <!--Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on leading the Technical Department here at ISA MPSTME as Co-Head
+- 🔭 I’m currently working on leading the Google DSC of MPSTME as well as the Technical Department here at ISA MPSTME as Co-Head
 - 🌱 I’m currently learning Java(for Android), C++(for CP), Python(for ML)
 - 📫 How to reach me: https://www.linkedin.com/in/suvadityamukherjee/
 - 😄 Pronouns: He/Him
