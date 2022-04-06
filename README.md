@@ -7,10 +7,10 @@
 <!--Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on leading the Google DSC of MPSTME as well as the Technical Department here at ISA MPSTME as Co-Head
-- 🌱 I’m currently learning Java(for Android), C++(for CP), Python(for ML)
+- 🌱 I’m currently learning Deep Learning using PyTorch and TF-Keras
 - 📫 How to reach me: https://www.linkedin.com/in/suvadityamukherjee/
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I hold a deep-seated interest in Foreign Policy and Geopolitics
+- ⚡ Fun fact: I have led teams of over 300 people and am an active organizer of communities around me.
 <!--- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
