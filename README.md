@@ -6,13 +6,14 @@
 
 <!--Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on leading the Google DSC of MPSTME as well as the Technical Department here at ISA MPSTME as Co-Head
-- 🌱 I’m currently learning Deep Learning using PyTorch and TF-Keras
-- 📫 How to reach me: https://www.linkedin.com/in/suvadityamukherjee/
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I have led teams of over 300 people and am an active organizer of communities around me.
-<!--- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working on **Deep Learning in Computer Vision and research towards Vision and ML Models**
+- 🌱 I’m currently learning **MLOps and advanced TensorFlow/Keras**
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/suvadityamukherjee/), [Gmail](suvadityamuk@gmail.com)
+- 😄 Pronouns: **He/Him**
+- ⚡ Fun fact: I have led teams of over 500 people and work towards collaborating with folks to learn more. I have worked as a volunteer for Google Cloud Community Days 2022 and other Google events in Mumbai, India.
+- 👯 I’m looking to collaborate on **Deep Learning Theory & Computer Vision research, Data Science and Machine Learning based problems, MLOps**
+<!--
+🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=suvadityamuk&&show_icons=true&&theme=chartreuse-dark&&include_all_commits=true&&count_private=true" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suvadityamuk&&show_icons=true&&theme=highcontrast" />
